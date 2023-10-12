@@ -5,7 +5,7 @@ window, linux batch 파일 등
 ------------------------------------
 
     if () else () : 다른 언어와 동일
-    echo : 프린트 같은 역할
+    echo          : 프린트 같은 역할
     set 변수명=값  : 선언
     
     reg export "%a변수%" "%b변수%" /y 
